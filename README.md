@@ -13,6 +13,6 @@ Further, a Dickey-Fuller test can be used for checking for time series stationar
 
 Finally, auto-correlation and partial auto-correlation plots can be used for examining time series model residuals. Our goal is to pick a time series model (with parameters p,d, and q) that have no significant autocorrelations present, which also suggests that the series has limited trends, skewness, or other patterns. 
 
-We first forecasted Delta Airline's (Atlanta hub) stock prices using this methodology (90 days into the future from June 14th). According to our model, Delta's 90-day stock price is around $52.7 with an upper estimate of $58.2 and a lower estimate of $46.7. We will alsoupdate the forecasted stock prices of other airlines. 
+We first forecasted Delta Airline's (Atlanta hub) stock prices using this methodology (90 days into the future from June 14th). According to our model, Delta's 90-day stock price is around $52.7 with an upper estimate of $58.2 and a lower estimate of $46.7. We will also update the forecasted stock prices of other airlines. 
 
 
