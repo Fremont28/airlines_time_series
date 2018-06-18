@@ -15,4 +15,6 @@ Finally, auto-correlation and partial auto-correlation plots can be used for exa
 
 We first forecasted Delta Airline's (Atlanta hub) stock prices using this methodology (90 days into the future from June 14th). According to our model, Delta's 90-day stock price is around $52.7 with an upper estimate of $58.2 and a lower estimate of $46.7. We will also update the forecasted stock prices of other airlines. 
 
+Read Here: https://wordpress.com/post/beyondtheaverage.wordpress.com/1422
+
 
